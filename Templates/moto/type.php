@@ -1,19 +1,3 @@
-<style>
-    nav {
-      padding: 10px 20px;
-      background-color: #f0f0f0;
-    }
-
-    nav ul {
-    display: flex;
-      justify-content: space-around;
-      align-items: center;
-      list-style: none;
-      margin: 0;
-      padding: 0;
-    }
-</style>
-
 Toutes les motos de type <?php echo $type ?>
 
 <nav>

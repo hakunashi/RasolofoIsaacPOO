@@ -1,27 +1,3 @@
-<style>
-    nav {
-      padding: 10px 20px;
-      background-color: #f0f0f0;
-    }
-
-    ul {
-      list-style: none;
-      margin: 0;
-      padding: 0;
-    }
-
-    nav ul {
-    display: flex;
-      justify-content: space-around;
-      align-items: center;
-    }
-
-    ul#main li{
-        border: 1px solid black;
-        padding: 10px;
-        margin: 10px
-    }
-</style>
 Toutes les motos
 
 <nav>
